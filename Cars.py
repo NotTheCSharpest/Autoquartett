@@ -43,8 +43,8 @@ Autos.append(toua)
 Autos.append(jetta)
 
 #test-car list functionality
-for obj in Autos:
-    print(obj.geschwindigkeit)
+#for obj in Autos:
+#    print(obj.geschwindigkeit)
 
 def Spielen(car1, car2, sparkles): 
 
@@ -62,7 +62,7 @@ print('Mit welcher Attribute sollen wir spielen? \n Wählen Sie von: \n geschwin
 leistung \n verbrauch \n zylinder \n hubraum \n \
 beschleunigung \n zuladung  \n ladevolumen. \n\n\n') 
 
-Spielen(phae, beet, 'geschwindigkeit') 
+#Spielen(phae, beet, 'geschwindigkeit') 
 
   
 # max speed of 250 
